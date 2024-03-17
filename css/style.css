@@ -1,0 +1,58 @@
+User
+/* styles.css */
+
+/* Global Styles */
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 50;
+  padding: 0;
+}
+
+/* Header Styling */
+header {
+  background-color: skyblue;
+  padding: 20px;
+  text-align: right;
+    color: black;
+}
+
+/* Introduction Section */
+.introduction {
+  background-color: silver;
+  padding: 30px;
+  margin: 20px 0;
+}
+
+/* Skills Display */
+.skills {
+  background-color: yellowgreen;
+  padding: 20px;
+  margin: 20px 0;
+  text-align: right;
+  
+}
+
+.skills ul {
+  list-style: none;
+  padding: 0;
+}
+
+.skills li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+/* Contact Information */
+.contact {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: left;
+}
+
+.contact a {
+  color: #fff;
+  text-decoration: none;
+  margin-left: 5px;
+}
